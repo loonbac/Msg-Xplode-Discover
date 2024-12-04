@@ -160,4 +160,3 @@ Este bloque asegura que el script se ejecute solo si lo estamos ejecutando direc
 ## Licencia
 
 Este proyecto tiene una licencia [MIT](https://choosealicense.com/licenses/mit/).
-```
